@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DEC5329421D67943005009B2 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC5329321D67943005009B2 /* WeatherViewController.swift */; };
 		DED14F3821D63B3A00097216 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DED14F3721D63B3A00097216 /* AppDelegate.swift */; };
 		DED14F3A21D63B3A00097216 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DED14F3921D63B3A00097216 /* ViewController.swift */; };
 		DED14F3D21D63B3A00097216 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DED14F3B21D63B3A00097216 /* Main.storyboard */; };
@@ -82,6 +83,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DEC5329321D67943005009B2 /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
 		DED14F3421D63B3A00097216 /* firstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = firstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DED14F3721D63B3A00097216 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DED14F3921D63B3A00097216 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 				DED14F3E21D63B3C00097216 /* Assets.xcassets */,
 				DED14F4021D63B3C00097216 /* LaunchScreen.storyboard */,
 				DED14F4321D63B3C00097216 /* Info.plist */,
+				DEC5329321D67943005009B2 /* WeatherViewController.swift */,
 			);
 			path = firstApp;
 			sourceTree = "<group>";
@@ -413,6 +416,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DED14F3A21D63B3A00097216 /* ViewController.swift in Sources */,
+				DEC5329421D67943005009B2 /* WeatherViewController.swift in Sources */,
 				DED14F3821D63B3A00097216 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
